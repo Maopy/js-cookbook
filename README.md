@@ -1,1 +1,2 @@
-# js-cookbook
+# Initial page
+
